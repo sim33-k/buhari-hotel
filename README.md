@@ -1,5 +1,3 @@
-# CL Question 1
-
 A web-based restaurant ordering application for Buhari Hotel. This system allows waiters to manage customer orders and view business reports.
 
 ## Live Deployment
